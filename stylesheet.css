@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, main{
+    max-width: 40%;
+    margin: 0 auto;
+    background: white;
+    border-radius: 15px;
+}
+
+body{
+    background-image: url(Images/TheaterCurtains.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#222211;
+}
+
+h1, p{
+    margin: 10px;
+}
+
+h1{
+    text-align: center;
+}
